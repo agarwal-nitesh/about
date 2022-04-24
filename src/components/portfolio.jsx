@@ -34,7 +34,7 @@ class Portfolio extends React.Component {
                         <h2 className="w-title">Fake News on Twitter.</h2>
                         <div className="w-more">
                           <span className="w-ctegory">
-                            <a href="agarwal-nitesh.github.io/static/NewsGDL.pdf" target="_blank">A GDL based approach.</a>
+                            A GDL based approach.
                           </span>
                         </div>
                       </div>
